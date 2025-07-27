@@ -24,11 +24,12 @@ This platform provides smooth **ordering, cart management, order tracking, and s
 - 🔐 **Login / Logout / Register** (via JWT Auth)
 - 🧪 **Mock Data** used for supplier/product listings (supports testing without live DB)
 
- ##Team Members(5) - Responsibility 
-Tanneeru Tanuja - `Login`, `Logout`, `Register`, JWT auth setup on both client and server 
-Udaya Lakshmi -`Search functionality`, `Top-rated suppliers`, category filter display  Jani Ahmmad - `Add to Cart` logic (Redux store), UI + product cards integration 
-Kumpatla Navya - `Order Placement`, `My Order`, mock data creation
-Chelluboina Deepthi -`Tracking Orders`, card-to Order backend logic , page showing all order details, mock data creation, styling 
+ ## Team Members(5) - Responsibility 
+- Tanneeru Tanuja - `Login`, `Logout`, `Register`, JWT auth setup on both client and server 
+- Udaya Lakshmi -`Search functionality`, `Top-rated suppliers`, category filter display  
+- Jani Ahmmad - `Add to Cart` logic (Redux store), UI + product cards integration 
+- Kumpatla Navya - `Order Placement`, `My Order`, mock data creation
+- Chelluboina Deepthi -`Tracking Orders`, card-to Order backend logic , page showing all order details, mock data creation, styling 
 
 ## Pages:
 
