@@ -30,7 +30,7 @@ Udaya Lakshmi -`Search functionality`, `Top-rated suppliers`, category filter di
 Kumpatla Navya - `Order Placement`, `My Order`, mock data creation
 Chelluboina Deepthi -`Tracking Orders`, card-to Order backend logic , page showing all order details, mock data creation, styling 
 
-##Pages:
+## Pages:
 
 - 1.Login,Register
 - 2.Marketplace page
@@ -39,7 +39,7 @@ Chelluboina Deepthi -`Tracking Orders`, card-to Order backend logic , page showi
 - 5.myorderpage
 - 6.PlaceOrder page
 
-##Tools
+## Tools
 
 - 1.VsCode
 - 2.MongoDBAtlas
