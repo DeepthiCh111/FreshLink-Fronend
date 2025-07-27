@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+#  FreshLink - Street Food Vendor Marketplace
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+FreshLink is a real-time raw material sourcing platform designed for **street food vendors**. It connects them with **trusted suppliers** offering high-quality vegetables, meat, spices, and dairy products — all in one place.
 
-## Available Scripts
+This platform provides smooth **ordering, cart management, order tracking, and supplier discovery** — built for affordability, speed, and trust.
+---
+## 🚀 Tech Stack
 
-In the project directory, you can run:
+- **Frontend:** ReactJS, TailwindCSS v3, Redux Toolkit
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB Atlas
+- **Authentication:** Bcrypt, JWT
+- **Others:** Axios, CORS
+---
+## 🔑 Key Features
 
-### `npm start`
+- 🔍**Search Functionality:** Search products or suppliers by name
+- 🛒 **Add to Cart:** Add/remove products from your cart
+- 📦 **Place Order:** Submit your cart as an order
+- 🚚 **Track Order:** Track the status of placed orders
+- 📄 **Order Details Page:** View full order history in `My Orders`
+- 🛍️ **Category-wise Display:** Vegetables, Meat, Spices, Dairy, etc.
+- ⭐ **Top Rated Suppliers & Products**
+- 🔐 **Login / Logout / Register** (via JWT Auth)
+- 🧪 **Mock Data** used for supplier/product listings (supports testing without live DB)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ #Team Members(5) - Responsibility 
+Tanneeru Tanuja - `Login`, `Logout`, `Register`, JWT auth setup on both client and server 
+Udaya Lakshmi -`Search functionality`, `Top-rated suppliers`, category filter display  Jani Ahmmad - `Add to Cart` logic (Redux store), UI + product cards integration 
+Kumpatla Navya - `Order Placement`, `My Order`, mock data creation
+Chelluboina Deepthi -`Tracking Orders`, card-to Order backend logic , page showing all order details, mock data creation, styling 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#Pages:
 
-### `npm test`
+1.Login,Register
+2.Marketplace page
+3.Cartpage
+4.Tracking page
+5.myorderpage
+6.PlaceOrder page
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#Tools
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1.VsCode
+2.MongoDBAtlas
+3.Render.com
+4.Github
