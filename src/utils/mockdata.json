@@ -1,0 +1,385 @@
+[
+  {
+    "id": "1",
+    "name": "Supplier 1",
+    "image": "/supplier1.jpg",
+    "rating": 4.8,
+    "reviewCount": 497,
+    "distance": "7.2 km",
+    "deliveryTime": "52 min",
+    "purpose": "Trusted source of Natural, Organic, Home Style",
+    "specialties": ["Farm Fresh", "Home Style", "Affordable"],
+    "isVerified": true,
+    "isOnline": true,
+    "priceRange": "\u20b9\u20b9",
+    "certifications": ["FSSAI", "AGMARK"],
+    "trustScore": 86,
+    "phone": "+91 9392171332",
+    "email": "contact@supplier1.com",
+    "address": "435 Market Road, Hyderabad",
+    "establishedYear": 2012,
+    "totalOrders": 446,
+
+    "products": [
+      {
+        "id": "prod_0",
+        "name": "Tomatoes",
+        "image": "/tomato.jpg",
+        "price": 13.38,
+        "unit": "kg",
+        "available": true,
+        "organic": false
+      },
+      {
+        "id": "prod_1",
+        "name": "Potatoes",
+        "image": "/potato.jpg",
+        "price": 39.55,
+        "unit": "kg",
+        "available": false,
+        "organic": true
+      },
+      {
+        "id": "prod_2",
+        "name": "Onions",
+        "image": "/onion.jpeg",
+        "price": 10.66,
+        "unit": "kg",
+        "available": true,
+        "organic": true
+      },
+      {
+        "id": "prod_3",
+        "name": "Carrots",
+        "image": "/carrot.jpg",
+        "price": 31.77,
+        "unit": "kg",
+        "available": false,
+        "organic": true
+      },
+      {
+        "id": "prod_4",
+        "name": "Spinach",
+        "image": "/spinach.png",
+        "price": 44.59,
+        "unit": "kg",
+        "available": false,
+        "organic": true
+      },
+      {
+        "id": "prod_8",
+        "name": "Cauliflower",
+        "image": "/cauliflower.jpg",
+        "price": 42.56,
+        "unit": "kg",
+        "available": true,
+        "organic": true
+      },
+      {
+        "id": "prod_9",
+        "name": "Peas",
+        "image": "/peas.webp",
+        "price": 47.19,
+        "unit": "kg",
+        "available": true,
+        "organic": false
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Supplier 2",
+    "image": "/supplier2.webp",
+    "rating": 4.6,
+    "reviewCount": 250,
+    "distance": "9.5 km",
+    "deliveryTime": "34 min",
+    "purpose": "Trusted source of Natural, Organic, Home Style",
+    "specialties": ["Chemical Free", "Sustainable", "Local"],
+    "isVerified": true,
+    "isOnline": true,
+    "priceRange": "\u20b9\u20b9",
+    "certifications": ["FSSAI", "AGMARK"],
+    "trustScore": 86,
+    "phone": "+91 9348891192",
+    "email": "contact@supplier2.com",
+    "address": "947 Market Road, Hyderabad",
+    "establishedYear": 2010,
+    "totalOrders": 834,
+
+    "products": [
+      {
+        "id": "prod_0",
+        "name": "Tomatoes",
+        "image": "/tomato.jpg",
+        "price": 16.66,
+        "unit": "kg",
+        "available": true,
+        "organic": true
+      },
+      {
+        "id": "prod_1",
+        "name": "Potatoes",
+        "image": "/potato.jpg",
+        "price": 20.47,
+        "unit": "kg",
+        "available": false,
+        "organic": false
+      },
+      {
+        "id": "prod_2",
+        "name": "Onions",
+        "image": "/onion.jpeg",
+        "price": 39.83,
+        "unit": "kg",
+        "available": false,
+        "organic": false
+      },
+      {
+        "id": "prod_5",
+        "name": "Cucumbers",
+        "image": "/cucumber.jpg",
+        "price": 30.44,
+        "unit": "kg",
+        "available": false,
+        "organic": true
+      },
+      {
+        "id": "prod_6",
+        "name": "Beans",
+        "image": "/beans.avif",
+        "price": 15.07,
+        "unit": "kg",
+        "available": false,
+        "organic": false
+      },
+      {
+        "id": "prod_8",
+        "name": "Cauliflower",
+        "image": "/cauliflower.jpg",
+        "price": 26.93,
+        "unit": "kg",
+        "available": false,
+        "organic": false
+      },
+      {
+        "id": "prod_9",
+        "name": "Peas",
+        "image": "/peas.webp",
+        "price": 43.2,
+        "unit": "kg",
+        "available": false,
+        "organic": false
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Supplier 3",
+    "image": "/supplier1.jpg",
+    "rating": 4.3,
+    "reviewCount": 208,
+    "distance": "5.9 km",
+    "deliveryTime": "52 min",
+    "purpose": "Trusted source of Natural, Organic, Home Style",
+    "specialties": ["Chemical Free", "Sustainable", "Local"],
+    "isVerified": true,
+    "isOnline": false,
+    "priceRange": "\u20b9\u20b9",
+    "certifications": ["FSSAI", "AGMARK"],
+    "trustScore": 88,
+    "phone": "+91 9968136394",
+    "email": "contact@supplier3.com",
+    "address": "336 Market Road, Vijayawada",
+    "establishedYear": 2015,
+    "totalOrders": 594,
+
+    "products": [
+      {
+        "id": "prod_0",
+        "name": "Tomatoes",
+        "image": "/tomato.jpg",
+        "price": 17.47,
+        "unit": "kg",
+        "available": false,
+        "organic": false
+      },
+      {
+        "id": "prod_1",
+        "name": "Potatoes",
+        "image": "/potato.jpg",
+        "price": 32.51,
+        "unit": "kg",
+        "available": false,
+        "organic": true
+      },
+      {
+        "id": "prod_2",
+        "name": "Onions",
+        "image": "/onion.jpeg",
+        "price": 22.09,
+        "unit": "kg",
+        "available": true,
+        "organic": false
+      },
+      {
+        "id": "prod_3",
+        "name": "Carrots",
+        "image": "/carrot.jpg",
+        "price": 48.44,
+        "unit": "kg",
+        "available": true,
+        "organic": true
+      },
+      {
+        "id": "prod_4",
+        "name": "Spinach",
+        "image": "/spinach.png",
+        "price": 30.46,
+        "unit": "kg",
+        "available": true,
+        "organic": true
+      },
+      {
+        "id": "prod_5",
+        "name": "Cucumbers",
+        "image": "/cucumber.jpg",
+        "price": 26.85,
+        "unit": "kg",
+        "available": true,
+        "organic": false
+      },
+      {
+        "id": "prod_8",
+        "name": "Cauliflower",
+        "image": "/cauliflower.jpg",
+        "price": 41.4,
+        "unit": "kg",
+        "available": false,
+        "organic": false
+      },
+      {
+        "id": "prod_9",
+        "name": "Peas",
+        "image": "/peas.webp",
+        "price": 34.79,
+        "unit": "kg",
+        "available": false,
+        "organic": true
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Supplier 5",
+    "image": "/supplier2.webp",
+    "rating": 5.0,
+    "reviewCount": 377,
+    "distance": "5.5 km",
+    "deliveryTime": "56 min",
+    "purpose": "Trusted source of Natural, Organic, Home Style",
+    "specialties": ["Natural", "Organic", "Healthy"],
+    "isVerified": true,
+    "isOnline": true,
+    "priceRange": "\u20b9",
+    "certifications": ["FSSAI", "AGMARK"],
+    "trustScore": 86,
+    "phone": "+91 9169028295",
+    "email": "contact@supplier5.com",
+    "address": "183 Market Road, Bangalore",
+    "establishedYear": 2006,
+    "totalOrders": 369,
+    "products": [
+      {
+        "id": "prod_0",
+        "name": "Tomatoes",
+        "image": "/tomato.jpg",
+        "price": 12.58,
+        "unit": "kg",
+        "available": true,
+        "organic": true
+      },
+      {
+        "id": "prod_1",
+        "name": "Potatoes",
+        "image": "/potato.jpg",
+        "price": 30.23,
+        "unit": "kg",
+        "available": true,
+        "organic": false
+      },
+      {
+        "id": "prod_2",
+        "name": "Onions",
+        "image": "/onion.jpeg",
+        "price": 43.24,
+        "unit": "kg",
+        "available": true,
+        "organic": true
+      },
+      {
+        "id": "prod_3",
+        "name": "Carrots",
+        "image": "/carrot.jpg",
+        "price": 18.57,
+        "unit": "kg",
+        "available": false,
+        "organic": true
+      },
+      {
+        "id": "prod_4",
+        "name": "Spinach",
+        "image": "/spinach.png",
+        "price": 45.96,
+        "unit": "kg",
+        "available": false,
+        "organic": false
+      },
+      {
+        "id": "prod_5",
+        "name": "Cucumbers",
+        "image": "/cucumber.jpg",
+        "price": 42.27,
+        "unit": "kg",
+        "available": true,
+        "organic": false
+      },
+      {
+        "id": "prod_6",
+        "name": "Beans",
+        "image": "/beans.avif",
+        "price": 48.78,
+        "unit": "kg",
+        "available": false,
+        "organic": false
+      },
+      {
+        "id": "prod_7",
+        "name": "Cabbage",
+        "image": "/cauliflower.jpg",
+        "price": 21.46,
+        "unit": "kg",
+        "available": false,
+        "organic": false
+      },
+      {
+        "id": "prod_8",
+        "name": "Cauliflower",
+        "image": "/cauliflower.jpg",
+        "price": 45.46,
+        "unit": "kg",
+        "available": true,
+        "organic": true
+      },
+      {
+        "id": "prod_9",
+        "name": "Peas",
+        "image": "/peas.webp",
+        "price": 16.21,
+        "unit": "kg",
+        "available": true,
+        "organic": false
+      }
+    ]
+  }
+]
